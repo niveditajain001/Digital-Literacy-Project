@@ -1,0 +1,4 @@
+# Task 3: Coding & Collaboration Platforms
+I used HackerEarth to complete a beginner-level coding challenge,find pairs, which helped me understand basic programming and problem-solving. 
+Additionally, I created a Google Form titled 'Digital Literacy Awareness Quiz' with five questions. I am using Google Sheets to analyze responses. 
+These tools are useful for improving coding skills and conducting academic surveys. This task helped me develop both technical and collaborative skills.
