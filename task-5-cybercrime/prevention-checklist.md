@@ -1,0 +1,11 @@
+# Stay Safe Online checklist
+- Do not click on unknown or suspicious links
+- Always verify the sender’s email address
+- Never share OTPs or passwords with anyone
+- Use strong and unique passwords
+- Enable two-factor authentication
+- Check UPI payment requests carefully before approving
+- Do not accept unknown payment collect requests
+- Always verify website URLs before entering details
+- Report cyber fraud at cybercrime.gov.in
+- Call helpline 1930 immediately in case of fraud
