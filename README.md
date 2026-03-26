@@ -27,7 +27,7 @@ I created an infographic(poster) using Canva. The infographic includes:
 - Importance of digital literacy  
 - Tagline: “Be Smart, Stay Safe Online!”
 
-📁 File: `task-1-presentation/`
+📁 Folder: `task-1-presentation/`
 
 ---
 
@@ -95,5 +95,3 @@ These platforms will help me build a strong digital presence over the next four 
 (Contains case study and prevention checklist)
 
 ---
-
-## 📁 Repository Structure
