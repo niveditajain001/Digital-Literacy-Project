@@ -1,0 +1,4 @@
+# Task 2: Student Digital Portfolio
+In this task, I created my digital portfolio on GitHub, LinkedIn and Kaggle. GitHub is used to showcase projects and technical skills, while LinkedIn helps build a professional network. 
+Kaggle allows practice with data science and analytical skills. Over the next four years, I plan to update these platforms regularly with new projects and achievements.
+This will help me build a strong digital presence and improve my career opportunities.
